@@ -1,0 +1,3 @@
+/cygdrive/d/CLion Projects/OU_CLION_GIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/CLion Projects/OU_CLION_GIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/CLion Projects/OU_CLION_GIT/cmake-build-debug/CMakeFiles/OU_CLION_GIT.dir
